@@ -1,2 +1,2 @@
 # spring-boot-demo
-Spring Boot + Angular + Bootstrap
+Spring Boot + Angular + Bootstrap + WebSocket
